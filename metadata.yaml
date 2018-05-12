@@ -1,0 +1,37 @@
+_repo: George-Selwyn--His-Letters-and-His-Life_16661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Selwyn, George Augustus
+    birthdate: 1719
+    deathdate: 1791
+    gutenberg_agent_id: '38497'
+    url: http://www.gutenberg.org/2009/agents/38497
+  editors:
+  - agent_name: Clergue, Helen
+    gutenberg_agent_id: '6855'
+    url: http://www.gutenberg.org/2009/agents/6855
+  - agent_name: Roscoe, Edward Stanley
+    alias: Roscoe, E. S. (Edward Stanley)
+    birthdate: 1849
+    deathdate: 1932
+    gutenberg_agent_id: '6854'
+    url: http://www.gutenberg.org/2009/agents/6854
+description: ''
+gutenberg_issued: '2005-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Selwyn, George Augustus, 1719-1791'
+- !lcsh 'Selwyn, George Augustus, 1719-1791 -- Correspondence'
+title: 'George Selwyn: His Letters and His Life'
+url: http://www.gutenberg.org/ebooks/16661

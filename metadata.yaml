@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '6854'
     url: http://www.gutenberg.org/2009/agents/6854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16661#George-Selwyn--His-Letters-and-His-Life
 gutenberg_issued: '2005-09-05'
 gutenberg_type: Text
 identifiers:
